@@ -5,10 +5,10 @@ deployment_option:
   single_tier:
     deploy_url: https://developersitalia.it
     demo: https://developersitalia.it
-    monthly_cost: 32 dollars
+    monthly_cost: 33 dollars
     op_level: 2
   multi_tier:
-    deploy_url: https://google.com
-    demo: https://google.com
-    monthly_cost: 12 dollars
+    deploy_url: https://amazon.com
+    demo: https://amazon.com
+    monthly_cost: 13 dollars
     op_level: 5
