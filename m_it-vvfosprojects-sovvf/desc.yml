@@ -1,0 +1,9 @@
+deployment_option:
+  single_tier:
+    deploy_url: https://www.vigilfuoco.it/
+    demo: https://gitlab.it
+    op_level: 4
+  multi_tier:
+    deploy_url: https://www.vigilfuoco.it/
+    demo: https://www.vigilfuoco.it/
+    op_level: 4
