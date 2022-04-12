@@ -1,9 +1,11 @@
 deployment_option:
   single_tier:
+    solution_name: AWS
     deploy_url: https://www.vigilfuoco.it/
     demo: https://gitlab.it
     op_level: 4
   multi_tier:
+    solution_name: AWS
     deploy_url: https://www.vigilfuoco.it/
     demo: https://www.vigilfuoco.it/
     op_level: 4
