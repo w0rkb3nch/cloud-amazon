@@ -1,7 +1,4 @@
 deployment_option:
-  docker-compose:
-    name: Docker
-    description: desc
   single_tier:
     deploy_url: https://gitlab.it
     demo: https://gitlab.it
